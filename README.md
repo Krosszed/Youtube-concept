@@ -2,7 +2,7 @@
 Проект выполнил Побединский Станислав
 
 ##Испоьзуемые технологии 
--Html
--Css
--Normalize.css
--SVG Sprites
+- Html
+- Css
+- Normalize.css
+- SVG Sprites
