@@ -6,3 +6,4 @@
 - Css
 - Normalize.css
 - SVG Sprites
+- Подключение шрифта Mulish
